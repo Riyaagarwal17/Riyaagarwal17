@@ -1,6 +1,3 @@
-Here’s the updated GitHub profile README with the blockchain project moved to the **Currently Working On** section:  
-
----
 
 # 👋 Hi, I’m **Riya Agarwal**  
 ### 🚀 A Tech Enthusiast Passionate About Building Solutions That Matter  
@@ -57,6 +54,14 @@ A health tracking app with **real-time sync** across devices using the MERN stac
 
 ---
 
+## 🌱 What I’m Currently Learning  
+
+- 🚀 Advanced **Node.js** and **React** concepts.  
+- 🔍 Implementing **GraphQL** for more efficient APIs.  
+- 🔒 Diving deeper into **Cybersecurity** practices for web apps.  
+
+---
+
 ## 🌱 Currently Working On  
 
 ### 🗳️ Blockchain-Based Voting System  
@@ -65,11 +70,6 @@ A decentralized voting system ensuring **tamper-proof and transparent** election
 - 🔒 Cryptographic protocols for data integrity.  
 
 ---
-  ###🌱 What I’m Currently Learning
-  
-🚀 Advanced Node.js and React concepts.
-🔍 Implementing GraphQL for more efficient APIs.
-🔒 Diving deeper into Cybersecurity practices for web apps.
 
 ## 💞️ Let’s Collaborate!  
 
@@ -98,3 +98,4 @@ She/Her
 I thrive on solving complex problems and have a knack for turning ideas into impactful projects. Outside of coding, you’ll find me exploring new tech trends or diving into retro games for inspiration.  
 
 ---
+
